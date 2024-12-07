@@ -1,3 +1,3 @@
 # Aesthetics
 
-Python package containing colours and plot settings
+Python package containing colours and plot settings.
