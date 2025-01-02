@@ -1,2 +1,2 @@
-from colours import *
-from plot_settings import *
+from . import colours
+from . import plot_settings
