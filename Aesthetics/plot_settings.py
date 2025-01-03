@@ -14,7 +14,7 @@ def get_my_rc_params():
         'text.latex.preamble': r'\usepackage{amsmath} \usepackage{amssymb} \usepackage{amsfonts}',
         'text.usetex': True,
         'patch.force_edgecolor': True,
-        'figure.dpi': 1000,
+        'figure.dpi': 100,
         'savefig.dpi': 1000,
     }
     return rc_params
